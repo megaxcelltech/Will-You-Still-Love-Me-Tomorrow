@@ -16,22 +16,22 @@ const geistMono = Geist_Mono({
 // UBAH METADATA (JUDUL, DESKRIPSI & ICON)
 // ==========================================
 export const metadata: Metadata = {
-  title: "Coffee and You? ☕",
-  description: "Panggilan khusus untuk Indri Khoerunnisa!",
+ title: "Will You Still Love Me Tomorrow",
+  description: "HALO JEAA",
   icons: {
     icon: "/fotoprofil.jpeg",
     shortcut: "/fotoprofil.jpeg",
     apple: "/fotoprofil.jpeg",
   },
   openGraph: {
-    title: "Coffee and You? ☕",
-    description: "Panggilan khusus untuk Indri Khoerunnisa! 👑",
+    title: "Will You Still Love Me Tomorrow",
+    description: "HALO JEA",
     images: [
       {
         url: "/fotoprofil.jpeg", // Preview gambar saat link dikirim di WhatsApp
         width: 800,
         height: 800,
-        alt: "Coffee and You",
+        alt: "Will You Still Love Me Tomorrow",
       },
     ],
   },

@@ -50,7 +50,7 @@ export default function SweetInvite() {
     startInfinitePinkRain();
 
     if (audioRef.current) {
-      audioRef.current.currentTime = 9; 
+      audioRef.current.currentTime = 160; 
       audioRef.current.play();
       setIsPlaying(true);
     }
@@ -142,7 +142,7 @@ export default function SweetInvite() {
               <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-pink-200 via-pink-300 to-pink-200"></div>
 
               <h1 className="text-2xl tracking-[0.1em] font-extrabold mb-8 text-center text-pink-700 uppercase drop-shadow-sm">
-                 Coffee and You ? ☕
+                 Your lovely dick man 😎
               </h1>
               <motion.button
                 whileHover={{ scale: 1.05, translateY: -2 }}
@@ -182,18 +182,18 @@ export default function SweetInvite() {
                     animate={{ y: 0 }}
                     className="text-4xl font-extrabold mb-4 tracking-tight text-pink-700 drop-shadow-sm"
                   >
-                    MISSION ACCEPTED! ✨
+                    PERMINTAAN MAAF ACCEPTED! ✨
                   </motion.h1>
                   <p className="text-lg text-gray-700 font-medium font-sans mb-10 leading-relaxed px-2">
-                    Sampai ketemu hari Selasa, 18 Agustus 2026 ya! Nanti kabarin aja enaknya ngopi di mana ✨
+                    MAKACI SAYANG!! 
                   </p>
 
                   <motion.button
                     whileHover={{ scale: 1.05, translateY: -3 }}
                     whileTap={{ scale: 0.95 }}
                     onClick={() => {
-                      const noWA = "62882000090278"; 
-                      const pesanWA = "Halo! Mission Accepted nih 🚀😁 Sampai ketemu hari Selasa, 18 Agustus 2026 ya! Nanti kabarin aja enaknya ngopi di mana ✨";
+                      const noWA = "628889399990"; 
+                      const pesanWA =" ";
                       window.open(`https://wa.me/${noWA}?text=${encodeURIComponent(pesanWA)}`, "_blank");
                     }}
                     className="px-10 py-4 bg-pink-500 text-white tracking-widest font-extrabold uppercase rounded-full shadow-lg hover:bg-pink-600 transition-all font-sans"
@@ -213,7 +213,7 @@ export default function SweetInvite() {
                   >
                     <img 
                       src="fotoprofil.jpeg" 
-                      alt="Indri Khoerunnisa" 
+                      alt="jea" 
                       className="w-full h-full object-cover" 
                     />
                   </motion.div>
@@ -221,20 +221,31 @@ export default function SweetInvite() {
                   {/* Teks Undangan */}
                   <div className="text-center mb-10">
                     <h2 className="text-sm font-bold mb-3 tracking-[0.2em] font-sans text-pink-600 drop-shadow-sm uppercase">
-                      ♫ FIFTY FIFTY - Cupid ♫
+                      ♫ Will You Still Love Me Tomorrow ♫
                     </h2>
                     <h1 className="text-3xl font-extrabold text-pink-700 drop-shadow-sm leading-tight">
-                      Hallow, Indri Khoerunnisa! 🎧
+                      Hallo , JEA! 🎧
                     </h1>
                     <span className="inline-block text-lg font-bold text-pink-500 mb-4 bg-pink-100/70 px-4 py-1 rounded-full mt-2">
-                      👑 Queendri
+                      
                     </span>
                     
                     <p className="text-base text-gray-700 leading-relaxed font-sans px-2 mb-2 font-medium">
-                      Panggilan khusus untuk hari <b>Selasa, 18 Agustus 2026!</b> 🗓️
+                      PERMINTAAN MAAF DARI AKU  <b> UNTUK JEA </b> 
                     </p>
                     <p className="text-sm text-gray-600 leading-relaxed font-sans px-2">
-                      Boleh kali buat ngobrol-ngobrol dan Re-Charge Energy bareng hihi.🤭
+                      hi. how’s u feeling today? i hope u feel okay, even if deep down u don’t. btw, i know lately i’ve been acting like a dick towards u, and honestly, i got no excuse for that. ngl, i’ve just been so stressed lately, and i know i’ve been toxic asf. no cap, i hate that i’ve been making things harder for us when all i really want is for us to be okay.
+i know saying sorry won’t magically fix everything, and i’m not expecting u to just forget all the shit that happened. but fr, i miss us. i miss the way we used to talk, laugh over the dumbest shit, and just be there for each other without all this tension between us.
+sometimes i let my own problems get the best of me, and end up taking it out on the person who means the most to me. and that’s not fair to u, at all. u don’t deserve to catch strays from my bad days, especially when all u ever wanted was to feel loved and understood by me.
+i’m not tryna play the victim or make u feel bad for me. i just wanna be real with u for once. i know i fucked up, and if i could take back the moments where i hurt u, i honestly would. i can’t change what’s already happened, but i can try to do better instead of keep giving u the same apologies over and over again.
+and listen, i’m not saying all this just because i’m scared of losing u. i’m saying this because, despite all the bullshit lately, i still choose u. i still want u. i still wanna make this work with u, even when things get messy and life gets overwhelming.
+i don’t want us to keep acting like strangers when we mean so much to each other. i don’t want my ego, my stress, or my stupid ass attitude to get in the way of something i genuinely care about. we might not be okay rn, but i don’t wanna give up on us just because things have been rough.
+i’m not asking u to be okay with me overnight, and i’m not gonna force u to act like nothing happened. take ur time if u need to. i just hope there’s still a little space in ur heart for us to figure this shit out together.
+i miss u, and i miss us more than i can put into words. i know i can’t promise i’ll never mess up again, but i can promise that i wanna learn, grow, and stop letting my own shit ruin what we have.
+so yeah, if ur still willing, can we start over? not like nothing ever happened, but like two people who still give a damn about each other and are willing to try again. no games, no unnecessary ego, no more pushing each other away when all we really need is to understand each other better.
+i still got so much love for u, even on the days when i suck at showing it. and i’m sorry for making u question that. i hope we can find our way back to each other, slowly but surely. no pressure, no bullshit. just me, being real with u, hoping we can be us again. 🖤
+
+maapp kalau ada bad englishnya itu pure aku merangkai sedikit demi sedit walaupun ada sedikit translate HAHAHA
                     </p>
                   </div>
 
@@ -244,7 +255,7 @@ export default function SweetInvite() {
                       onClick={handleAccept}
                       className="px-10 py-4 bg-pink-400 text-white font-bold uppercase rounded-full shadow-md hover:bg-pink-500 transition-all z-20"
                     >
-                      AYO GAS!!
+                      DIMAAFIN
                     </button>
 
                     <motion.button
@@ -256,7 +267,7 @@ export default function SweetInvite() {
                       }}
                       className="px-10 py-4 bg-white/60 backdrop-blur-sm text-pink-500 font-bold uppercase rounded-full border-2 border-pink-200 shadow-inner hover:bg-pink-50 transition-colors z-20"
                     >
-                      🚫😡
+                      TIDAK🚫😡
                     </motion.button>
                   </div>
                 </div>
